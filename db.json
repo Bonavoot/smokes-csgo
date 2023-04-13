@@ -1,0 +1,44 @@
+{
+  "maps": [
+    {
+      "id": "Dust_2",
+      "name": "Dust_2",
+      "tside": {
+        "spots": {
+          "catwalk": {
+            "vid1": "url",
+            "vid2": "url"
+          }
+        }
+      },
+      "ctside": {
+        "spots": {
+          "a_doors": {
+            "vid1": "url",
+            "vid2": "url"
+          }
+        }
+      }
+    },
+    {
+      "id": "Mirage",
+      "name": "Mirage",
+      "tside": {
+        "spots": {
+          "catwalk": {
+            "vid1": "url",
+            "vid2": "url"
+          }
+        }
+      },
+      "ctside": {
+        "spots": {
+          "a_doors": {
+            "vid1": "url",
+            "vid2": "url"
+          }
+        }
+      }
+    }
+  ]
+}
